@@ -1,4 +1,4 @@
-export const taille_fenetre = "petite";
+export const taille_fenetre = "medium";
 export const alignement_fenetre = "";
 export const texte_principal = "Hello World";
 export const fond_decran = "jaune";
