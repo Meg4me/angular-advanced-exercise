@@ -1,4 +1,4 @@
-export const taille_fenetre = "grande";
+export const taille_fenetre = "medium";
 export const alignement_fenetre = "";
 export const texte_principal = "Hello World " + Date();
 export const fond_decran = "jaune";
