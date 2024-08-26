@@ -1,5 +1,6 @@
+import * as INFO from './constants.js';
 function main(){
-    console.log("Hello, World!");
+    console.log(INFO);
 }
 
 main();

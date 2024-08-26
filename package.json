@@ -1,0 +1,13 @@
+{
+  "name": "exercisee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello_world.js",
+  "type":"module",
+  "scripts": {
+    "start": "node hello_world.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keiffer Messan",
+  "license": "ISC"
+}
